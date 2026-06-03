@@ -1,3 +1,6 @@
 DODIK RESOLUSI
   - Konsisten belajar web setiap hari
   - Membuat project aplikasi POS untuk Keboo Printing
+  - Menyelesaikan project aplikasi POS untuk Keboo Printing
+  - Menyelesaikan WPUCLASS FUNDAMENTAL
+
